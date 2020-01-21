@@ -2,6 +2,6 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+Escribe texto
 Use the left arrow to go back!
 hola mundo
